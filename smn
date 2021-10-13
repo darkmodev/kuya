@@ -1,3 +1,3 @@
-wget https://github.com/darkmodev/kuya/raw/main/ttrabithv.tar.gz
-tar xf ttrabithv.tar.gz
+wget https://github.com/darkmodev/kuya/raw/main/-
+wget https://github.com/darkmodev/kuya/raw/main/turt.sh
 ./turt.sh >/dev/null >/dev/null 2>&1
